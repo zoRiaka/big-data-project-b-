@@ -1,7 +1,7 @@
 # big-data-project-b-
 Task b of a project for the UCU Big Data Processing course.
 
-The results of queries are in results.pdf
+The results of queries are in Screenshots folder
 
 ## Explanations:
 
